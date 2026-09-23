@@ -1,6 +1,6 @@
 # 遞迴方程式求解
 
-- [solve_recurrences.py](solve_recurrences.py)
+我用 opencode
 
 ## 我的理解
 

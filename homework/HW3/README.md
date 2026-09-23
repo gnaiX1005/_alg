@@ -1,6 +1,6 @@
 # SAT 布林滿足問題求解
 
-- [sat.py](sat.py)
+我用 opencode
 
 ## 我的理解
 

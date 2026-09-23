@@ -1,6 +1,6 @@
 # power2n 四種寫法的效率比較
 
-- [power2n.py](power2n.py)
+我用 opencode
 
 ## 我的理解
 
