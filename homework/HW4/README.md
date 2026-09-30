@@ -2,7 +2,7 @@
 
 我用 **[gemini](https://share.gemini.google/DVxOmANlNF8u)**
 
-##1.用迭代法求解一個問題
+## 1.用迭代法求解一個問題
 
 ### 我的理解
 
