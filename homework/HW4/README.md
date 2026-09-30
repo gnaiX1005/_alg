@@ -1,6 +1,6 @@
 # 牛頓法求平方根（迭代法）
 
-我用 gemini(https://share.gemini.google/DVxOmANlNF8u)
+我用 gemini[https://share.gemini.google/DVxOmANlNF8u]
 
 ## 我的理解
 
