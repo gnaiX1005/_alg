@@ -2,8 +2,6 @@
 
 我用 opencode
 
-本週有三題，分別是一支程式：`hanoi.py`、`sym_diff.py`、`bubble_sort.py`。
-
 ---
 
 ## 1. 河內塔問題（`hanoi.py`）遞迴與禁止遞迴兩種解法
