@@ -1,6 +1,6 @@
 # Lambda Calculus 完整解譯器
 
-我用 gemini
+我用 **[gemini]([https://share.gemini.google/DVxOmANlNF8u](https://share.gemini.google/SyMEGHjomUmE))**
 
 ## 我的理解
 
