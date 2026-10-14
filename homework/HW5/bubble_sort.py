@@ -72,4 +72,8 @@ if __name__ == "__main__":
     for data in tests:
         result = bubble_sort(data)
         ok = (result == sorted(data)) and is_sorted(result)
+<<<<<<< HEAD
         print(f"原始: {data}  ->  排序後: {result}  正確: {ok}")
+=======
+        print(f"原始: {data}  ->  排序後: {result}  正確: {ok}")
+>>>>>>> a167402628661e598a5545f29324e38a350bab34
