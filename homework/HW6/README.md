@@ -1,6 +1,6 @@
 # Lambda Calculus 完整解譯器
 
-我用 opencode
+我用 gemini
 
 ## 我的理解
 
