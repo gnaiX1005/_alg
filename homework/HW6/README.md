@@ -1,7 +1,6 @@
 # Lambda Calculus 完整解譯器
 
-我用 [gemini]([https://share.gemini.google/DVxOmANlNF8u](https://share.gemini.google/SyMEGHjomUmE))
-
+我用 **[gemini](https://share.gemini.google/SyMEGHjomUmE)**
 ## 我的理解
 
 Lambda Calculus 是計算理論的基石，所有的計算都能用「λ抽象（定義函數）」與「應用（呼叫函數）」這兩種操作來表達。這次作業要實作一個完整的 λ-演算解譯器，核心功能包括：
