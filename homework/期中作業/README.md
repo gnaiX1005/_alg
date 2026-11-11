@@ -2,8 +2,8 @@
 
 第幾週 | 習題內容 | 有上課且準時繳交 | 補交 | 附上請假證明 | 作業連結
 -------|----------|--------------------|------|---------------|-------------
-1 | 查表法 | 是 | | | [HW1](https://github.com/gnaiX1005/_alg/tree/main/homework/HW1)
-2 | 複雜度 | 是 | | | [HW2](https://github.com/gnaiX1005/_alg/tree/main/homework/HW2)
+1 | 查表法 |  | 是 | | [HW1](https://github.com/gnaiX1005/_alg/tree/main/homework/HW1)
+2 | 複雜度 |  | | 是  | [HW2](https://github.com/gnaiX1005/_alg/tree/main/homework/HW2)
 3 | 列舉＋暴力 | 是 | | | [HW3](https://github.com/gnaiX1005/_alg/tree/main/homework/HW3)
 4 | 迭代法 | 是 | | | [HW4](https://github.com/gnaiX1005/_alg/tree/main/homework/HW4)
 5 | 遞迴，函數式編程 | 是 | | | [HW5](https://github.com/gnaiX1005/_alg/tree/main/homework/HW5)
