@@ -1,6 +1,6 @@
 # 第11週習題：數值方法 — 微分、積分與蒙地卡羅法
 
-我用 claude
+我用 **[claude](https://claude.ai/share/3b27ab01-2247-4b57-950f-227024114cbb)**
 
 ---
 
